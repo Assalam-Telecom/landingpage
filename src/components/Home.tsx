@@ -527,8 +527,8 @@ export default function Home() {
               <div className="space-y-2 sm:space-y-3 text-gray-400 text-sm sm:text-base">
                 <p>Batagarawa, Katsina</p>
                 <p>Katsina State, Nigeria</p>
-                <p>+234 803 123 4567</p>
-                <p>info@assalamtelecom.com</p>
+                <p>+234 814 352 9716</p>
+                <p>Info@assalamtelecom.com.ng</p>
               </div>
             </div>
           </div>

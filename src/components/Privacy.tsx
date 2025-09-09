@@ -690,15 +690,15 @@ export default function Privacy() {
                 <div>
                   <h3 className="font-semibold mb-3">Data Protection Officer</h3>
                   <div className="space-y-2 text-blue-100">
-                <p><strong>Email:</strong> privacy@assalamtelecom.com</p>
-                <p><strong>Phone:</strong> +234 803 123 4567</p>
+                <p><strong>Email:</strong> Info@assalamtelecom.com.ng</p>
+                <p><strong>Phone:</strong> +234 814 352 9716</p>
                 <p><strong>Address:</strong> Batagarawa, Katsina, Katsina State, Nigeria</p>
                   </div>
                 </div>
                 <div>
                   <h3 className="font-semibold mb-3">General Inquiries</h3>
                   <div className="space-y-2 text-blue-100">
-                    <p><strong>Email:</strong> info@assalamtelecom.com</p>
+                    <p><strong>Email:</strong> Info@assalamtelecom.com.ng</p>
                     <p><strong>Phone:</strong> +234 814 352 9716</p>
                     <p><strong>Website:</strong> www.assalamtelecom.com.ng</p>
                   </div>

@@ -34,13 +34,13 @@ export default function Contact() {
     {
       icon: <Phone className="w-6 h-6" />,
       title: "Call Us",
-      details: ["+234 803 123 4567", "+234 806 987 6543"],
+      details: ["+234 814 352 9716"],
       color: "from-blue-green-500 to-blue-green-600"
     },
     {
       icon: <Mail className="w-6 h-6" />,
       title: "Email Us",
-      details: ["info@assalamtelecom.com", "support@assalamtelecom.com"],
+      details: ["Info@assalamtelecom.com.ng"],
       color: "from-soft-orange-400 to-blue-green-500"
     },
     {
@@ -273,13 +273,13 @@ export default function Contact() {
                   <div className="flex items-center space-x-3">
                     <Phone className="w-5 h-5 text-green-600" />
                     <div>
-                      <p className="text-gray-900">+234 803 123 4567</p>
+                      <p className="text-gray-900">+234 814 352 9716</p>
                     </div>
                   </div>
                   <div className="flex items-center space-x-3">
                     <Mail className="w-5 h-5 text-purple-600" />
                     <div>
-                      <p className="text-gray-900">info@assalamtelecom.com</p>
+                      <p className="text-gray-900">Info@assalamtelecom.com.ng</p>
                     </div>
                   </div>
                 </div>
@@ -302,7 +302,7 @@ export default function Contact() {
                 <div className="space-y-3">
                   <div className="flex items-center space-x-3">
                     <Phone className="w-5 h-5" />
-                    <span className="font-medium">Emergency Support: +234 803 123 4567</span>
+                    <span className="font-medium">Emergency Support: +234 814 352 9716</span>
                   </div>
                   <div className="flex items-center space-x-3">
                     <Clock className="w-5 h-5" />
